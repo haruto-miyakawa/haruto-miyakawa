@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **haruto-miyakawa/haruto-miyakawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---># 宮川 陽翔 / Haruto Miyakawa
+## 宮川 陽翔 / Haruto Miyakawa
 
 > 妥協なき創作のために、技術を磨く。
 
