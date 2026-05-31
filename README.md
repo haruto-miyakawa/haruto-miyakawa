@@ -43,7 +43,7 @@ IIAI AAI Winter 2025 / IEEE Computer Society（共著、学部1年次）
 
 ## アウトプット
 
-- 🌐 **Portfolio**: [portfolio-lp-chi.vercel.app](https://portfolio-lp-chi.vercel.app/)
+- 🌐 **Portfolio**: [haruto-miyakawa-rho.vercel.app](https://haruto-miyakawa-rho.vercel.app/)
 - 📖 **Zenn**: [@haruto_miyakawa](https://zenn.dev/haruto_miyakawa)
 - 💼 **LAPRAS**: [haruto-miyakawa](https://lapras.com/public/haruto-miyakawa)
 - 🐦 **X**: [@myfuns101010](https://x.com/myfuns101010)
