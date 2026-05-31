@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 開発実績
+## 開発実績
 
 ### [📝 つむぐ (tsumugu)](https://github.com/haruto-miyakawa/tsumugu)
 note クリエイター向け AI 共同執筆エディタ  
@@ -23,7 +23,7 @@ Whisper ローカル + Gemini 2.5 Flash の議事録アプリ。1時間の音声
 
 ---
 
-## 📄 研究実績
+## 研究実績
 
 **[オンライン炎上リスク検出フレームワーク](https://ieeexplore.ieee.org/document/11418320)**  
 IIAI AAI Winter 2025 / IEEE Computer Society（共著、学部1年次）  
@@ -31,7 +31,7 @@ IIAI AAI Winter 2025 / IEEE Computer Society（共著、学部1年次）
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages** TypeScript · Python · C++  
 **Frameworks** Next.js · React · Tailwind CSS · Tiptap  
@@ -41,7 +41,7 @@ IIAI AAI Winter 2025 / IEEE Computer Society（共著、学部1年次）
 
 ---
 
-## 📝 アウトプット
+## アウトプット
 
 - 🌐 **Portfolio**: [portfolio-lp-chi.vercel.app](https://portfolio-lp-chi.vercel.app/)
 - 📖 **Zenn**: [@haruto_miyakawa](https://zenn.dev/haruto_miyakawa)
@@ -51,7 +51,7 @@ IIAI AAI Winter 2025 / IEEE Computer Society（共著、学部1年次）
 
 ---
 
-## 📫 Contact
+## Contact
 
 📧 **haruto.miyakawa.dev@gmail.com**
 
